@@ -35,7 +35,9 @@ In this repo I tried to clone AirBnb website via using React. I practiced the fo
 - Technologies used
   - github
   - npm
-<!-- ## [Live Demo](https://admirable-pie-21357b.netlify.app/) -->
+
+##[Screensjot](AirBnb.png)
+## [Live Demo](https://creative-pothos-114b4e.netlify.app/)
 
 ## Getting Started
 

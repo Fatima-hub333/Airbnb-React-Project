@@ -21,7 +21,10 @@ export default function App() {
   return (
     <div className="contacts">
       <Navbar />
-      {cards}
+      <section className="cards-list">
+        {cards}
+      </section>
+      
     </div>
     
   )

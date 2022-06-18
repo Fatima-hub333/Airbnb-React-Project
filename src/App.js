@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './components/Navbar'
-// import Hero from './components/Hero'
+import Hero from './components/Hero'
 import Card from './components/Card'
 import data from './data'
 import './index.css'
@@ -17,6 +17,7 @@ export default function App() {
   return (
     <div className="contacts">
       <Navbar />
+      <Hero />
       <section className="cards-list">
         {cards}
       </section>
